@@ -1,7 +1,7 @@
 ## Eu sou o Wilson Dias Debus
 
-- 🔭 Atualmente estudo na Universidade Franciscana no curso de ciência da computação (Bolsa 100% ProUni) 
-- 🌱 Estudo C, C++, HTML, CSS, Python e Java
+- 📘 Acadêmico do curso de Ciência da Computação na Universidade Franciscana, bolsista integral pelo Programa Universidade para Todos (ProUni).
+- 💻 Estudo C, C++, HTML, CSS, Python e Java
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />      
