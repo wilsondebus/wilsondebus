@@ -3,6 +3,15 @@
 - 📚 Acadêmico do curso de Ciência da Computação na Universidade Franciscana desde 2025, bolsista integral pelo Programa Universidade para Todos (ProUni).
 - 💻 Estudo C, C++, Java, Python, HTML, CSS e JavaScript.
 
+ <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=wilsondebus&rank_icon=github" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsondebus&hide_progress=true" />
+  </a>
+</p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Wilson-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />      
   <img align="center" alt="Wilson-C++" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
