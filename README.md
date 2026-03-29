@@ -3,7 +3,7 @@
 - 📚 Acadêmico do curso de Ciência da Computação na Universidade Franciscana desde 2025, bolsista integral pelo Programa Universidade para Todos (ProUni).
 - 💻 Estudo C, C++, Java, Python, JavaScript, HTML e CSS.
 
- <p align="center">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=wilsondebus&rank_icon=github" />
   </a>
