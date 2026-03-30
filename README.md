@@ -4,12 +4,8 @@
 - 💻 Estudo C, C++, Java, Python, JavaScript, HTML e CSS.
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=wilsondebus&rank_icon=github" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsondebus&hide_progress=true" />
-  </a>
+  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wilsondebus&show_icons=true&theme=radical" />
+  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wilsondebus&layout=compact&theme=radical" />
 </p>
 
 <div style="display: inline_block"><br>
