@@ -1,6 +1,7 @@
 ## Eu sou o Wilson Dias Debus
 
-- 📚 Estudante de Ciência da Computação na UFN, com foco em desenvolvimento back-end em Java. Tenho experiência acadêmica e prática com Python, C, C++, MySQL, HTML, CSS e JavaScript, além de projetos envolvendo automação, análise de dados, lógica de programação e orientação a objetos. 
+- 📚 Estudante de Ciência da Computação na UFN, com foco em desenvolvimento back-end em Java. Tenho experiência acadêmica e prática com Python, C, C++, MySQL, HTML, CSS e JavaScript, além de projetos envolvendo automação, análise de dados, lógica de programação e orientação a objetos.
+  
 - 💻 Estudo:
 <p align="left">
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
