@@ -2,7 +2,7 @@
 
 - 📚 Estudante de Ciência da Computação na UFN, com foco em desenvolvimento back-end em Java. Tenho experiência acadêmica e prática com Python, C, C++, MySQL, HTML, CSS e JavaScript, além de projetos envolvendo automação, análise de dados, lógica de programação e orientação a objetos.
   
-- 💻 Estudo:
+- 💻 Minha Stack:
 <p align="left">
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
