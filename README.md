@@ -42,6 +42,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wilsondebus&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wilsondebus&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wilsondebus&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wilsondebus&theme=tokyonight)
 
 ---
