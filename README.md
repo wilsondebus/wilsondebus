@@ -57,7 +57,7 @@
   <a href = "mailto:wilsonddebus@gmail.com">
   <img height = "40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  <a href="https://www.linkedin.com/in/wilson-dias-debus-a92a6935845875016a" target="_blank">
+  <a href="https://www.linkedin.com/in/wilson-dias-debus-a92a69358/" target="_blank">
   <img height = "40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   <a href="https://instagram.com/wilsondebus_" target="_blank">
