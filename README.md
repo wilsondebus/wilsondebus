@@ -1,6 +1,10 @@
                                                          Wilson Dias Debus
 
-- Estudante de Ciência da Computação na UFN, com foco em desenvolvimento back-end. Possuo experiência acadêmica e prática em projetos de automação, análise de dados, desenvolvimento de sistemas, lógica de programação e programação orientada a objetos.
+- Sou estudante de Ciência da Computação na Universidade Franciscana (UFN), bolsista integral, com foco em desenvolvimento back-end e maior familiaridade com Java, Programação Orientada a Objetos, Estruturas de Dados e Lógica de Programação.
+
+- Atualmente, trabalho na área de vendas, onde desenvolvo habilidades de comunicação, negociação, relacionamento com clientes, organização e resolução de problemas. 
+
+- Na área de tecnologia, possuo conhecimentos em Java, Python, C, C++, Spring Boot, MySQL, JavaScript, HTML e CSS, além de experiência com projetos acadêmicos, projetos pessoais, automação de tarefas, análise de dados e desenvolvimento de sistemas.
 
 <p align="center">
   <a href="https://wilsondebus.github.io/Portfolio/">
