@@ -54,6 +54,12 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 </p>
 
+### 🔀 Controle de Versão e Colaboração
+<p align = "left">
+<p>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+
 ---
 
 ## 📫 Contato: 
