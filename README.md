@@ -82,8 +82,13 @@
 ---
 
 ## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wilsondebus&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wilsondebus&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=wilsondebus&rank_icon=github" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsondebus&hide_progress=true" />
+  </a>
+</p>
 
 ---
